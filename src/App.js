@@ -13,7 +13,7 @@ function App() {
   return (
     <GlobalProvider>
       <Header />
-      <div className='container'>
+      <div className=''>
         <TimeIndicator />
         <InputCard />
         <Score />
